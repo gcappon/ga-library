@@ -1,2 +1,2 @@
-from .classes import *
-
+from .Gene import *
+from .Population import *
