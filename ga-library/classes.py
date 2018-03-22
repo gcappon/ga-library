@@ -9,3 +9,4 @@ class Gene(object):
     def __repr__(self):
         return 'Gene ' + str(id) + ': ' + str(self.gene)
 
+    
